@@ -13,3 +13,6 @@ First/Lastname + Phone + eMail is required to order.\
 (Needed if a new corona case is found to inform all affected people)\
 Backend will print a list of all users per dish/date for the canteen to have an overview of the day.\
 We added two languages, english and german.
+
+If you want to adjust the look&feel then edit the html2.php and the files in css2/js2.\
+css/js and the html.php is used for the backend.
