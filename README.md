@@ -4,7 +4,7 @@ Frontend for user food/day selection with optional dessert etc, backend for addi
 Requirements:\
 Apache/Nginx\
 PHP\
-MySQL\
+MySQL (take a look in /admin/dbstructure.php for db creation)\
 \
 We needed a website for our canteen to limit the users to a predefined limit per timeframe.\
 Every dish/date will be displayed as one tile.\
