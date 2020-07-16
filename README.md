@@ -14,5 +14,5 @@ First/Lastname + Phone + eMail is required to order.\
 Backend will print a list of all users per dish/date for the canteen to have an overview of the day.\
 We added two languages, english and german.
 
-If you want to adjust the look&feel then edit the html2.php and the files in css2/js2.\
+If you want to adjust the look&feel then edit the index.php + /inc/html2.php and the files in /inc/css2 + /inc/js2.\
 css/js and the html.php is used for the backend.
