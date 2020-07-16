@@ -11,4 +11,5 @@ Every dish/date will be displayed as one tile.\
 Optional dishes like desserts, salats can be selected in the second step.\
 First/Lastname + Phone + eMail is required to order.\
 (Needed if a new corona case is found to inform all affected people)\
-Backend will print a list of all users per dish/date for the canteen to have an overview of the day.\
+Backend will print a list of all users per dish/date for the canteen to have an overview of the day.
+We added two lagnuages, english and german.
